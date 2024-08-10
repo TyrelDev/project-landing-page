@@ -117,12 +117,14 @@
 }
 
 .cta-section {
-    padding:100px;
+    padding:100px 0px;
 }
 .cta-box {
     background-color: #3882F6;
     padding:25px;
     border-radius: 10px;
+    width:1000px;
+    margin:auto;
 }
 .footer {
     background-color:#1F2937;
