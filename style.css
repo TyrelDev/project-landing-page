@@ -92,6 +92,7 @@
 
 .image p {
     color:#1F2937;
+    padding:10px 0;
 }
 
 .image-holder {
@@ -115,6 +116,9 @@
     margin:auto;
 }
 
+.cta-box {
+    background-color: #3882F6;
+}
 .footer {
     background-color:#1F2937;
 }
