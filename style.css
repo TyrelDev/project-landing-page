@@ -28,6 +28,11 @@
     color:#E5E7EB;
 }
 
+.hero {
+    width:800px;
+    margin:auto;
+}
+
 .footer {
     background-color:#1F2937;
 }
