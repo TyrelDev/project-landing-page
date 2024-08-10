@@ -69,7 +69,9 @@
     margin-top:15px;
     color:white;
 }
-
+.information {
+    text-align:center;
+}
 .info-head p {
     font-size:36px;
     font-weight:bolder;
