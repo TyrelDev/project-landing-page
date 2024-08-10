@@ -46,6 +46,12 @@
     color:#E5E7EB;
     font-size:18px;
 }
+
+.hero-image {
+    width:400px;
+    height:200px;
+    background-color:azure;
+}
 .footer {
     background-color:#1F2937;
 }
