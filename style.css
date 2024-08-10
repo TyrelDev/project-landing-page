@@ -11,9 +11,9 @@
 .nav {
     display:flex;
     justify-content: space-between;
-    width:900px;
+    width:1050px;
     margin:auto;
-    padding:10px 0;
+    padding:20px 0;
 }
 
 .logo {
@@ -31,7 +31,7 @@
 }
 
 .hero {
-    width: 900px;
+    width: 1050px;
     margin:auto;
     padding: 50px 0px;
     display:flex;
