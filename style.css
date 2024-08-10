@@ -77,7 +77,16 @@
     font-weight:bolder;
     color:#1F2937;
 }
+.images {
+    display:flex;
+    justify-content: space-around;
+    margin: auto;
+    width:1000px;
+}
 
+.image {
+    width:200px;
+}
 .image-holder {
     width:200px;
     height:200px;
