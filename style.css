@@ -11,7 +11,7 @@
 .nav {
     display:flex;
     justify-content: space-between;
-    width:800px;
+    width:900px;
     margin:auto;
     padding:10px 0;
 }
@@ -31,7 +31,7 @@
 }
 
 .hero {
-    width:800px;
+    width: 900px;
     margin:auto;
     padding: 50px 0px;
     display:flex;
@@ -50,8 +50,8 @@
 
 .hero-image {
     flex-shrink: 0;
-    width:400px;
-    height:150px;
+    width:500px;
+    height:200px;
     background-color:azure;
 }
 .footer {
