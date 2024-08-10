@@ -125,6 +125,8 @@
     border-radius: 10px;
     width:1000px;
     margin:auto;
+    display:flex;
+    justify-content: space-around;
 }
 .footer {
     background-color:#1F2937;
