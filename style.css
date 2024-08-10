@@ -33,8 +33,9 @@
 .hero {
     width: 1050px;
     margin:auto;
-    padding: 50px 0px;
+    padding: 100px 0px;
     display:flex;
+    gap:60px;
 }
 
 .hero-title {
@@ -57,6 +58,13 @@
 
 .hero-info button {
     background-color:#3882F6;
+    font-weight: bold;
+    font-size:18px;
+    padding:5px 25px;
+    border: none;
+    border-radius: 5px;
+    margin-top:15px;
+    color:white;
 }
 .footer {
     background-color:#1F2937;
