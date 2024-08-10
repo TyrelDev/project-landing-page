@@ -17,6 +17,10 @@ body {
     width:800px;
 }
 
+.logo {
+    color:#F9FAf8;
+}
+
 .nav-links ol {
     list-style: none;
     display:flex;
